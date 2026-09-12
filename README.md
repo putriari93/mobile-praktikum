@@ -18,3 +18,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Tugas Praktikum Modul 2 - Git & GitHub
 Nama: Putri Ari Laksmi
+
+## Cara Menjalankan
+1. Jalankan `flutter pub get`
+2. Jalankan `flutter run`
